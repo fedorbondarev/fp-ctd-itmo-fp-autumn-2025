@@ -16,11 +16,6 @@ style:
     Prelude
   - [EditorConfig config][editorconfig]
 
-Note for Serokell people:
-
-  - All existing projects *should* continue using their current style guides,
-    but *may* choose to switch to this one.
-  - All new projects *must* adhere to the guidelines below.
 
 ## General guidelines
 
